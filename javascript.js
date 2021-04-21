@@ -15,7 +15,7 @@ console.log(soal);
 console.log(output);
 
 
-let sepasi = '     '
+let sepasi = '\n'
 console.log(sepasi);
 
 
@@ -36,7 +36,7 @@ console.log('Fourth Word: ' + fourthWord);
 console.log('Fifth Word: ' + fifthWord);
 
 
-let sepasi1 = '     '
+let sepasi1 = '\n'
 console.log(sepasi1);
 
 
@@ -57,8 +57,12 @@ console.log('Fourth Word: ' + fourthWord3);
 console.log('Fifth Word: ' + fifthWord3);
 
 
-let sepasi2 = '     '
+let sepasi2 = '\n'
 console.log(sepasi2);
+
+
+
+
 
 
 //soal nomer 4
